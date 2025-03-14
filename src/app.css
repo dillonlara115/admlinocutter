@@ -1,3 +1,28 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+@plugin "daisyui";
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+h1, h2, h3, h4, h5, h6, label, input {
+    font-family: 'Roboto Slab', serif;
+}
+
+form input, form select  {
+    background-color: #000;
+    border: 1px solid #333 !important;
+    border-radius: 10px !important;
+    padding: .5rem !important;
+    letter-spacing: 0.1em !important;  
+}
+
+
+form input.button {
+    height: auto !important;
+    border-color: #333 !important;
+    padding: .5rem 1rem !important;
+    background-color: #003689 !important;
+}
