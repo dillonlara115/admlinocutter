@@ -26,3 +26,19 @@ form input.button {
     padding: .5rem 1rem !important;
     background-color: #003689 !important;
 }
+#mc_embed_shell {
+    width: 100% !important;
+}
+
+#mc_embed_signup {
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .mc-address-fields-group .mc-field-group {
+        width: 100% !important;
+    }
+    #mc_embed_signup .mc-address-fields-group {
+        flex-direction: column !important;
+    }
+}
