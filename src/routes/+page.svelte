@@ -2,41 +2,30 @@
     // You can fetch data or define your layout logic here
     let artworks = [
       {
-        title: "Queen",
+        title: "",
         img: "/images/image-1.jpg",
         description: ""
       },
       {
-        title: "bird on the post",
-        img: "/images/image-2.jpg",
-        description: ""
-      },
-      {
-        title: "666",
+        title: "",
         img: "/images/dinosaur-666.jpg",
         description: ""
       },
       {
-        title: "Skeleton Shades",
+        title: "",
         img: "/images/skeleton-shades.jpg",
         description: ""
       },
       {
-        title: "Exchange in the Membrane",
+        title: "",
         img: "/images/untitled.jpg",
         description: ""
       },
       {
-        title: "See the cat. See the cradle",
+        title: "",
         img: "/images/cat-cradle.jpg",
         description: ""
-      },
-      
-      
-      
-      
-      
-      // Add as many as you like...
+      }
     ];
   </script>
   
@@ -82,8 +71,8 @@
                     <li class="p-4 pb-2">I THINK THE BEST PART OF GETTING AND GIVING PRINTS IS SHARING WHAT YOU HAVE RECEIVED AND SEEING PEOPLE SHARE YOUR PRINTS. DO THIS, OR DON’T. I ENCOURAGE YOU TO SHARE THOU.</li>
                     <li class="p-4 pb-2">I KNOW SOME PEOPLE ARE SAINTS AND LOVE TO SEND EXTRA PRINTS AND STICKERS. THIS IS ALLOWED. DO IT. “THOSE WHO SEND EXTRA PRINTS WILL BE THE FIRST TO PULL PERFECT PRINTS” I THINK THAT’S IN THE BEATITUDES. </li>  
                     <li class="p-4 pb-2">I’M ASKING EVERYONE TO MAIL BY SEPTEMBER 1, 2025. I WONT START SHORTING THE PRINTS TILL THE END OF THE MONTH TO GIVE PEOPLE OUTSIDE THE US TIME FOR THEIR PRINTS TO ARRIVE.</li>
-                    <li class="p-4 pb-2">IF YOU HAVEN’T REACH OUT TO ME ABOUT THE 10 BUCK FEE FOR HELPING WITH THE SHIPPING. NOT REQUIRED BUT APPRECIATED.</li>
-                    <li class="p-4 pb-2">SHARE YOUR PROCESS. TAG ME @ADMtheLINOCUTTER AND OR USE THE HASHTAG #EXCHANGEINTHEMEMBRANE</li>
+                    <li class="p-4 pb-2">IF YOU HAVEN'T SEEN IT YET, I'LL BE SENDING OUT AN EMAIL SOON THAT INCLUDES PAYMENT OPTIONS FOR THE $10 FEE TO HELP WITH SHIPPING. NOT REQUIRED BUT APPRECIATED.</li>
+                    <li class="p-4 pb-2">SHARE YOUR PROCESS. TAG ME @ADMtheLINOCUTTER</li>
                   </ul>
                   
             </div>
