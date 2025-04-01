@@ -12,11 +12,12 @@ h1, h2, h3, h4, h5, h6, label, input {
 }
 
 form input, form select  {
-    background-color: #000;
+    background-color: #444;
     border: 1px solid #333 !important;
     border-radius: 10px !important;
     padding: .5rem !important;
     letter-spacing: 0.1em !important;  
+    color: #fff !important;
 }
 
 
